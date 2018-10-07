@@ -1,5 +1,4 @@
 # hello-world
-Introduction to GitHub
+Introduction to GitHub.
 
-well, I am new on github and I am taking a tour
-around the website.
+I love GitHub.
